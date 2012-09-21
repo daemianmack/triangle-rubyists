@@ -27,7 +27,7 @@ def parse html
   doc.search("h2.title").each {|h2|
     name = h2.at('a').inner_text.strip
     details = h2.xpath("./following-sibling::div[1]")
-    followers = details.inner_text[/(\d+) followers/, 1].strip
+    followers = details.inner_text[/(\d+) follower/, 1].strip
     repos = details.inner_text[/(\d+) repos/, 1].strip
     location = details.inner_text[/located in (.+)$/, 1].strip
     params = {name:name,
