@@ -1,5 +1,5 @@
-database: postgres:///bostonruby
 page_title: relevancers
+database: postgres:///triangle-rubyists
 poll_interval: 10
 org: 
   name: relevance.com
