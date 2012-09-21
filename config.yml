@@ -5,7 +5,7 @@ org:
   name: relevance.com
   href: http://thinkrelevance.com
 opml: http://relevancers.herokuapp.com/relevance-blogs.xml
-twitters: https://github.com/bostonrb/bostonrb/wiki/All-Rubyists
+twitters: https://github.com/daemianmack/relevancers/wiki/All-Triangle-Rubyists
 language: ruby
 locations: 
 - cambridge+ma 
@@ -16,37 +16,3 @@ locations:
 - salem+ma 
 - portsmouth+nh 
 - portland+me
-tweeters:
-- antiheroine
-- bobbycalderwood
-- brentonashworth
-- bvandgrift
-- cldwalker
-- craigandera
-- crnixon
-- DaemianMack
-- gabrielcoch
-- holy_chao
-- itg
-- JAlexWarr
-- jasonrudolph
-- jgehtland
-- jgkite
-- jondistad
-- karnowski
-- L4k3
-- levanderhart
-- MaggieLitton
-- mtnygard
-- muness
-- Naoko_Cha
-- parenteau
-- redinger
-- rkneufeld
-- russolsen
-- samumbach
-- spicycode
-- stuarthalloway
-- stuartsierra
-- thinkrelevance
-- turbomarc
