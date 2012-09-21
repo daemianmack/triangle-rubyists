@@ -2,7 +2,7 @@ database: postgres:///triangle-rubyists
 page_title: Triangle Rubyists
 poll_interval: 10
 org: 
-  name: https://github.com/daemianmack/relevancers
+  name: github.com/daemianmack/relevancers
   href: https://github.com/daemianmack/relevancers
 opml: http://trianglerubyists.herokuapp.com/rubyist-blogs.xml
 twitters: https://github.com/daemianmack/relevancers/wiki/All-Triangle-Rubyists
