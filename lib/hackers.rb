@@ -49,21 +49,9 @@ def parse html
   end
 end
 
-# locations = CONFIG['locations']
-# locations.each {|loc|
-#   puts '-' * 20
-#   puts "Searching #{loc}"
-#   run loc
-# }
-
-def find_or_create(name)
-  if !DB[:hackers].first(name: name)
-    puts "Inserting #{name}"
-    DB[:hackers].insert(name: name)
-  # else
-  #   DB[:hackers].filter(name: name).update(location: 'NC')
-  end
-end
-
-hackers = CONFIG['hackers']
-hackers.each {|r| find_or_create(r) }
+locations = CONFIG['locations']
+locations.each {|loc|
+  puts '-' * 20
+  puts "Searching #{loc}"
+  run loc
+}
