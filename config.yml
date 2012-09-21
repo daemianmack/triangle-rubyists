@@ -8,11 +8,11 @@ opml: http://trianglerubyists.herokuapp.com/rubyist-blogs.xml
 twitters: https://github.com/daemianmack/relevancers/wiki/All-Triangle-Rubyists
 language: ruby
 locations: 
-- cambridge+ma 
-- boston 
-- somerville+ma 
-- salem+ma 
-- providence+ri 
-- salem+ma 
-- portsmouth+nh 
-- portland+me
+- raleigh
+- durham
+- cary
+- apex
+- rtp
+- "research triangle area"
+- "wake forest"
+- "chapel hill"
