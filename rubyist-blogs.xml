@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>relevance subscriptions in Google Reader</title>
+    </head>
+    <body>
+          <outline text="Clinton R. Nixon" title="Clinton R. Nixon"
+              type="rss" xmlUrl="http://crnixon.com/articles.xml" htmlUrl="http://crnixon.com"/>
+          <outline text="crn.io" title="crn.io" type="rss"
+              xmlUrl="http://crn.io/feed/" htmlUrl="http://crn.io"/>
+          <outline text="HickoryTech" title="HickoryTech" type="rss"
+              xmlUrl="http://tech.hickorywind.org/xml/rss" htmlUrl="http://tech.hickorywind.org/articles.rss"/>
+          <outline text="Jason Rudolph" title="Jason Rudolph"
+              type="rss"
+              xmlUrl="http://feeds.feedburner.com/jasonrudolph" htmlUrl="http://jasonrudolph.com/"/>
+          <outline text="Daemian Mack" title="Daemian Mack" type="rss"
+              xmlUrl="http://daemianmack.com/?feed=rss2" htmlUrl="http://daemianmack.com"/>
+    </body>
+</opml>
