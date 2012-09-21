@@ -1,16 +1,12 @@
 ## Description
 
 This is a fork of [boston-rubyists](https://github.com/danchoi/boston-rubyists) for
-[relevancers](http://relevancers.herokuapp.com/).
-This fork does the following differently:
+[triangle-rubyists](http://triangle-rubyists.herokuapp.com/).
+This fork does the following differently, thanks to [@cldwalker's work in his relevancers fork of the parent project](http://relevancers.herokuapp.com/)...
 
 * Runs on heroku
-* Twitter and github users can be configured in yaml
 * Date fixes
 * Styling improved by @michaelparenteau
-* Blogs work on heroku thanks to @daemianmack
-
-I'll try to merge as much of this upstream when I get a chance.
 
 ## TODO
 
