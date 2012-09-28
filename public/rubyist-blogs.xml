@@ -17,5 +17,7 @@
               xmlUrl="http://daemianmack.com/?feed=rss2" htmlUrl="http://daemianmack.com"/>
           <outline text="Nathaniel Talbott" title="Nathaniel Talbott" type="rss"
               xmlUrl="http://feeds.feedburner.com/1a3ae900" htmlUrl="http://nathaniel.talbott.ws/"/>
+          <outline text="Matthew Bass" title="Matthew Bass" type="rss"
+              xmlUrl="http://feeds.feedburner.com/pelargir" htmlUrl="http://matthewbass.com/"/>
     </body>
 </opml>
