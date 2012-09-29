@@ -19,5 +19,7 @@
               xmlUrl="http://feeds.feedburner.com/1a3ae900" htmlUrl="http://nathaniel.talbott.ws/"/>
           <outline text="Matthew Bass" title="Matthew Bass" type="rss"
               xmlUrl="http://feeds.feedburner.com/pelargir" htmlUrl="http://matthewbass.com/"/>
+          <outline text="Stephen Ball" title="Stephen Ball" type="rss"
+              xmlUrl="http://feeds.feedburner.com/RakeRoutes" htmlUrl="http://rakeroutes.com/"/>
     </body>
 </opml>
