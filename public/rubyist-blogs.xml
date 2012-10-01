@@ -21,5 +21,7 @@
               xmlUrl="http://feeds.feedburner.com/pelargir" htmlUrl="http://matthewbass.com/"/>
           <outline text="Stephen Ball" title="Stephen Ball" type="rss"
               xmlUrl="http://feeds.feedburner.com/RakeRoutes" htmlUrl="http://rakeroutes.com/"/>
+          <outline text="Glenn Poston" title="Glenn Poston" type="rss" xmlUrl="http://feeds.feedburner.com/ThreeProgrammersWalkedIntoABar" htmlUrl="http://www.glennposton.com/"/>
+          <outline text="Martin Streicher" title="Martin Streicher" type="rss" xmlUrl="http://blog.locomotivellc.com/rss" htmlUrl="http://blog.locomotivellc.com/"/>
     </body>
 </opml>
