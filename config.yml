@@ -1,7 +1,7 @@
 database: postgres:///triangle-rubyists
 page_title: Triangle Rubyists
 poll_interval: 10
-max_days_of_updates: 90
+max_days_of_updates: 15
 org: 
   name: github.com/daemianmack/triangle-rubyists
   href: https://github.com/daemianmack/triangle-rubyists
