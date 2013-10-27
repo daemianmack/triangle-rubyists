@@ -123,3 +123,7 @@ please drop me a line to let me know you're using this tool!
 ## Authors
 
 * Daniel Choi [github](https://github.com/danchoi) [twitter](http://twitter.com/danchoi)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/daemianmack/triangle-rubyists/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
